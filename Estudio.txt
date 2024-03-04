@@ -1,0 +1,8 @@
+Tipos de datos:
+Number = 1
+String = "asdasd"
+Array = ["hola"]
+Object = new Casa();
+foreach(videos as video){
+    echo video;
+}
