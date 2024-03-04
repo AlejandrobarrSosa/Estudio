@@ -3,6 +3,10 @@ Number = 1
 String = "asdasd"
 Array = ["hola"]
 Object = new Casa();
-foreach(videos as video){
-    echo video;
-}
+
+
+branch editar_tamaño
+branch cambiar_el_nav
+branch master
+git push
+git pull
